@@ -7,3 +7,8 @@ This is a simple wrapper for the SublerCLI tool that allows you to quickly extra
 
 # note
 I would highly recommend playing the file before removal of the old.  Not all .mkv are compatibility canidates!
+
+This app would like to use a ruby gem called terminal-notifier.  If it is not installed it will use the basic notifications.  
+
+If you would like to install the gem you can issue this command:
+[sudo] gem install terminal-notifier
