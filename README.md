@@ -1,4 +1,4 @@
-# osx_apps-mkv2m4v
+#mkv2m4v
 A basic wrapper for subler, to quickly convert compatible .mkv files to .m4v.
 
 Another shout out to one of my favorite tools when working with video, I cannot express how much time the dev of subler has saved me; thanks for the hard work!!
